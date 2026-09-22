@@ -2,13 +2,13 @@ import './style.css'
 import confetti from 'canvas-confetti'
 
 const cardData = {
-  recipient: 'Ihsan Gemoy Cisaranten',
-  nickname: 'Si Omoy',
+  recipient: 'Jiya Zara Mutiara',
+  nickname: 'Jiya',
   stickerDay: '3',
   stickerMonth: 'Mar',
   greeting:
     'Selamat ulang tahun! Semoga di umur yang baru ini, banyak hal baik datang ke kamu. Semoga rencana-rencana yang lagi kamu jalanin bisa berjalan satu per satu, dan kalau ada yang belum belum sesuai harapan, semoga kamu tetap punya alasan untuk terus jalan. Semoga tahun ini lebih banyak cerita baiknya, lebih banyak waktu untuk hal-hal yang kamu suka, dan tentunya lebih banyak alasan buat senyum. Nggak perlu semuanya sempurna, yang penting kamu bisa menikmati prosesnya.',
-  sender: 'Misanz', 
+  sender: '@maulanasya', 
   notes: [
     {
       tone: 'rose',
