@@ -1175,8 +1175,10 @@ button:focus-visible {
   }
 
   .scroll-hint {
-    bottom: 18px;
-  }
+  position: static;
+  transform: none;
+  margin: 28px auto 0;
+}
 
   .cake-card { min-height: 510px; }
   .cake-stage { width: min(100%, 300px); }
